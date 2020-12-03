@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(122, 133, 133);
+}
+
+.card-body{
+    background-color: rgb(53, 75, 75);
+    border-color: rgb(53, 75, 75);
+}
+
+.navbar-custom{
+    background-color: rgb(53, 75, 75);
+    
+}
+
