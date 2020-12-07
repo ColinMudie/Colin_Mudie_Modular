@@ -18,6 +18,12 @@ body{
     padding: 2%;
 }
 
+
+.btn-custom{
+    background-color: rgb(75, 53, 74);
+  
+}
+
 @media (max-width: 767px) {
     .navbar-hidden{
         display:none;
