@@ -21,7 +21,16 @@ body{
 
 .btn-custom{
     background-color: rgb(75, 53, 74);
-  
+}
+
+#instagram, #youtube, #github{
+   font-size: 200%; 
+   color:  rgb(75, 53, 74);
+   transition-duration: 0.4s;
+}
+
+#instagram:hover, #youtube:hover, #github:hover{
+    color:  rgba(75, 53, 74, 0.65);
 }
 
 @media (max-width: 767px) {
